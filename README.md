@@ -9,10 +9,11 @@ Today, I reviewed the fundamental concepts of machine learning, including Linear
 
 #### 1. Linear Regression
 - **Definition**: A linear approach to modeling the relationship between a dependent variable and one or more independent variables.
-- **Key Points**:
-  - Assumes a linear relationship between the input variables and the single output variable.
-  - Objective: Minimize the sum of the squared differences between the observed and predicted values.
-  - Commonly evaluated using metrics like Mean Squared Error (MSE) and R-squared.
+- **Steps **:
+  - Define Linear Hypothesis function
+  - Cost Function to that Hypothesis function
+  - Use Gradient Descent to minimize the cost function and get the parameters.
+  - Boom! We have trained our linear regression model. 
 
 #### 2. Logistic Regression
 - **Definition**: A statistical method for predicting binary outcomes from a set of continuous or categorical predictor variables.
