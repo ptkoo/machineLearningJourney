@@ -9,7 +9,7 @@ Today, I reviewed the fundamental concepts of machine learning, including Linear
 
 #### 1. Linear Regression
 - **Definition**: A linear approach to modeling the relationship between a dependent variable and one or more independent variables.
-- **Steps **:
+- **Steps**:
   - Define Linear Hypothesis function
   - Cost Function to that Hypothesis function
   - Use Gradient Descent to minimize the cost function and get the parameters.
