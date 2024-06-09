@@ -3,8 +3,7 @@
 ## Date: June 8, 2024
 
 ### Overview
-Today, I reviewed the fundamental concepts of machine learning, including Linear Regression, Logistic Regression, Decision Trees, Gradient Boosting, Neural Networks, and K-Nearest Neighbors (KNN). Below is a summary of the concepts and key points from each topic.
-
+Today, I reviewed the fundamental concepts of machine learning, including Linear Regression.
 ### Topics Reviewed
 
 #### 1. Linear Regression
@@ -15,12 +14,19 @@ Today, I reviewed the fundamental concepts of machine learning, including Linear
   - Use Gradient Descent to minimize the cost function and get the parameters.
   - Boom! We have trained our linear regression model. 
 
+## Date: June 9, 2024
+
+### Overview
+Today, I reviewed the fundamental concepts of machine learning, including Logistic Regression.
+
 #### 2. Logistic Regression
 - **Definition**: A statistical method for predicting binary outcomes from a set of continuous or categorical predictor variables.
 - **Key Points**:
-  - Uses the logistic function to model a binary dependent variable.
-  - Outputs probabilities that can be converted to binary outcomes using a threshold (e.g., 0.5).
-  - Evaluated using metrics such as accuracy, precision, recall, and the ROC-AUC score.
+  - Uses for classificaiton problems
+  - The idea is basically finding the linear candidate line from the probability candidate line. 
+  - First, project the data to linear candidate line, then using sigmoid funciton, convert it to proabilty candidate line.
+  - Cost function is likelyhood. The goal is to find maximum likelyhood. 
+  - Use gradient descent/ascent according to you equation. 
 
 #### 3. Decision Trees
 - **Definition**: A non-linear predictive model that maps observations about an item to conclusions about the item's target value.
