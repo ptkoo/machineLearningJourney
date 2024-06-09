@@ -28,4 +28,10 @@ Today, I reviewed the fundamental concepts of machine learning, including Logist
   - Cost function is likelyhood. The goal is to find maximum likelyhood. 
   - Use gradient descent/ascent according to you equation. 
 
+#### 3. KNN (K-Nearest Neighbour )
+- **Definition**: A simple, learning algorithm that classifies a data point based on the majority class of its k-nearest neighbors.
+- **Key Points**:
+  - Non-parametric and lazy learning algorithm.
+  - Calculate Euclidean Distance, Sort the distances, Find the K-neighbours
+  - Take the hightest neighbour group to classify 
 
