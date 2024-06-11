@@ -35,3 +35,20 @@ Today, I reviewed the fundamental concepts of machine learning, including Logist
   - Calculate Euclidean Distance, Sort the distances, Find the K-neighbours
   - Take the hightest neighbour group to classify 
 
+## Date: June 12, 2024
+
+### Overview
+Today, I reviewed the fundamental concepts of neural networks. 
+- **Definition**: A neural network is a squiggle line fitting machine that fits the activation functions with layers to the data
+- **Key Points**:
+  - Input Layers, Hidden Layers, Output Layers, each layer can have multiple nodes or neurons
+  - Each Neuron is a activation functions, sigmoid, ReLU, softplus, etc..
+  - Neurons are connected by connections, each connection consists of weights and bias.
+  - Learning process is finding the best weights and bias to fit the data. 
+  ***Back Propagation***
+    - We have hypotheis ( prediction function )
+    - We have cost function SSR
+    - We use gradient descent with partial differentiation to related parameter starting from the back weights and bias of the network.
+
+
+
