@@ -39,6 +39,9 @@ Today, I reviewed the fundamental concepts of machine learning, including Logist
 
 ### Overview
 Today, I reviewed the fundamental concepts of neural networks. 
+
+#### 4. Neural Network
+
 - **Definition**: A neural network is a squiggle line fitting machine that fits the activation functions with layers to the data
 - **Key Points**:
   - Input Layers, Hidden Layers, Output Layers, each layer can have multiple nodes or neurons
