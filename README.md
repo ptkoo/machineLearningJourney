@@ -3,7 +3,7 @@
 ## Date: June 8, 2024
 
 ### Overview
-Today, I reviewed the fundamental concepts of machine learning, including Linear Regression.
+Today, I reviewed the fundamental concepts of Linear Regression.
 ### Topics Reviewed
 
 #### 1. Linear Regression
@@ -17,7 +17,7 @@ Today, I reviewed the fundamental concepts of machine learning, including Linear
 ## Date: June 9, 2024
 
 ### Overview
-Today, I reviewed the fundamental concepts of machine learning, including Logistic Regression.
+Today, I reviewed the fundamental concepts of machine learning, including Logistic Regression and KNN.
 
 #### 2. Logistic Regression
 - **Definition**: A statistical method for predicting binary outcomes from a set of continuous or categorical predictor variables.
@@ -53,5 +53,22 @@ Today, I reviewed the fundamental concepts of neural networks.
     - We have cost function SSR
     - We use gradient descent with partial differentiation to related parameter starting from the back weights and bias of the network.
 
+
+## Date: June 13, 2024
+
+### Overview
+Today, I reviewed the fundamental concepts of Decision Trees 
+
+#### 5. Decision Trees ( Classification )
+
+- **Definition**: A classification tree is a type of decision tree, where each branch represents yes or no decision. 
+- **Key Points**:
+  - Impurity of the node: The quality of the split for classification
+  - Methods for calculating impurities of node: 1. Gini Impurity 2.Entropy
+    **How to build**
+    1. **Determine the Impurity of Nodes**
+    2. **Select the root node with the lowest impurity**
+    3. **Recursive Splitting: After selecting the root node, split the dataset into subsets based on the chosen feature**
+    4. **Continue splitting** until stopping criteria are met
 
 
